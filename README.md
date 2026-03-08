@@ -1,1 +1,1 @@
-# SpendWish
+# SpendWise
